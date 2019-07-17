@@ -1,4 +1,4 @@
-import piggy from '../porco.png'
+import piggy from '../../porco.png'
 import React from 'react'
 
 const Nav = () => {
